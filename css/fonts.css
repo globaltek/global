@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Lobster";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Lobster"), local("Lobster-Regular"), url("https://fonts.gstatic.com/s/lobster/v15/YQzLd7dy7TJYf9fxYF8Gkg.woff2") format("woff2"), url("https://fonts.gstatic.com/s/lobster/v15/9eID_a1kLfzp_BP9s4L15g.woff") format("woff");
+}
+@font-face {
+  font-family: "Cuprum";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Cuprum"), local("Cuprum-Regular"), url("https://fonts.gstatic.com/l/font?kit=9llRx6iSQO68iE7Oclm5vu5ugVuF0peRE2RbCX9_oyQNwBUijgVt51JMhI0yg6Bx0GWXnTxZNKPIJBGdtNDk7aYaNtxZUiq34CEol0CPowf3rGVtsTkPsbDajuO5ueQw&skey=89fd952ea8dac949") format("woff2"), url("https://fonts.gstatic.com/l/font?kit=O7CPW0kU-Vdp4c0i5TxMEe5ugVuF0peRE2RbCX9_oyQNwBUijgVt51JMhI0yg6Bx0GWXnTxZNKPIJBGdtNDk7aYaNtxZUiq34CEol0CPowf3rGVtsTkPsbDajuO5ueQw&skey=89fd952ea8dac949") format("woff");
+}
