@@ -120,7 +120,7 @@
 </div><hr />
 <!-- embedded map-->
 <div id="em-map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d31337.800794417395!2d76.93831969999998!3d10.946361750000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCBM+College+Road%2C+Ayyapan+Kovil+Street%2C+Kovaipudur%2C+Coimbatore+-+641042!5e0!3m2!1sen!2sin!4v1436515280416" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/viewer?mid=1g_mYw1_PPLCdXfN5glIEeh8aq4Q" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 <!-- end embedded map-->
 </div>
